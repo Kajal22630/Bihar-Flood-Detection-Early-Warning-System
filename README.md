@@ -33,27 +33,24 @@ This system provides:
 | Mean Absolute Error | 0.024 |
 | F1-Score | 0.94 |
 
-## 🚀 Quick Start
+## Technologies
+- Python
+- TensorFlow
+- Flask
+- Google Earth Engine
+- Pandas
+- NumPy
 
-### Prerequisites
-- Python 3.9+
-- Google Earth Engine account (for SAR data)
+## Features
+- Flood Risk Prediction
+- Real-Time Monitoring
+- Early Warning Alerts
+- Interactive Dashboard
 
-### Installation
+## Dataset
+Weather, Rainfall, River Level, and SAR Imagery Data
 
-```bash
-# Clone repository
-git clone https://github.com/Kajal22630/Bihar-Flood-Detection-Early-Warning-System.git
-cd Bihar-Flood-Detection-Early-Warning-System
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# or
-venv\Scripts\activate  # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python app.py
+## Authors
+Kajal Kumari
+B.Tech CSE (AI)
+2022-2026
